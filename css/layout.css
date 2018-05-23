@@ -28,6 +28,7 @@
   width: 30%;
   margin: 0 1%;
   float: left;
+  display: block;
 }
 
 .col-2 {
