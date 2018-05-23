@@ -25,7 +25,8 @@
 /* Posititoning Classes */
 
 .col-1 {
-  width: ;
+  width: 32%;
+  margin: 0 2%;
 }
 
 .col-2 {
@@ -33,5 +34,6 @@
 }
 
 .col-3 {
-  
+  width: 100%;
+  margin: 0 auto;
 }
