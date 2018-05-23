@@ -27,10 +27,11 @@
 .col-1 {
   width: 32%;
   margin: 0 2%;
+  float: left;
 }
 
 .col-2 {
-  
+  width: 68%
 }
 
 .col-3 {
