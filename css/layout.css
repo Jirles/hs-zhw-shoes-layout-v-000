@@ -28,7 +28,7 @@
   width: 30%;
   margin: 1%;
   float: left;
-  display: block;
+  display: inline-block;
 }
 
 .col-2 {
